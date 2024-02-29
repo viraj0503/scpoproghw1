@@ -26,7 +26,7 @@ echo "student 2"
 
 # 4. download with wget if file does not exist yet
 # if wget does not work for you, manually download from the below URL and place into `~/scpoprogramming/hw1` as `movies.dat`
-# (don't touch)
+# (don't touch the following!)
 if [ ! -f  ~/scpoprogramming/hw1/movies.dat ]; then
     echo ""
     echo "File not found in ~/scpoprogramming/hw1 !"
