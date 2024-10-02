@@ -4,7 +4,7 @@ Hi folks! Ok, here is your first homework.
 
 ## Logistics
 
-* You have time until March 7 2024
+* You have time until 16th of October
 * You **must** do the homework in teams of 2 or 3 students
 
 ## Submitting via Pull Request (PR)
